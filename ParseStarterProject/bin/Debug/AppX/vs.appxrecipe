@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-DARHDIJ</Machine>
+    <WindowsUser>Lalit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5c765ba6-12a0-4a3d-8e7c-4389074b008a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lalit Bagga\Desktop\ParseStarterProject\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E13C76556A0E759615DEF3D7493BD49DE80C5304CDD925E4A7F2403220A6EA73</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5c765ba6-12a0-4a3d-8e7c-4389074b008a_1.1.0.0_neutral__ywwvhtjmx9rt8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5c765ba6-12a0-4a3d-8e7c-4389074b008a_ywwvhtjmx9rt8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5c765ba6-12a0-4a3d-8e7c-4389074b008a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=David</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-17T03:53:17.436</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\ParseStarterProject.exe">
+      <PackagePath>ParseStarterProject.exe</PackagePath>
+      <Modified>2015-11-19T00:59:33.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\lib\Parse.dll">
+      <PackagePath>Parse.dll</PackagePath>
+      <Modified>2015-10-20T19:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\lib\Parse.WinRT.dll">
+      <PackagePath>Parse.WinRT.dll</PackagePath>
+      <Modified>2015-10-20T19:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-20T19:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-20T19:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-20T19:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-20T19:12:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\ParseStarterProject.xr.xml">
+      <PackagePath>ParseStarterProject.xr.xml</PackagePath>
+      <Modified>2015-11-18T18:45:46.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-17T03:52:53.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-11-17T01:42:16.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-18T18:45:46.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lalit Bagga\Desktop\ParseStarterProject\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-17T03:53:17.340</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
