@@ -1,1 +1,1 @@
-C:\Users\Lalit Bagga\Desktop\ParseStarterProject\ParseStarterProject.csproj;neutral
+C:\Users\Lalit Bagga\Desktop\TalkApp\ParseStarterProject\ParseStarterProject.csproj;neutral

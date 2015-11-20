@@ -66,9 +66,9 @@ namespace ParseStarterProject
             textBox1.Foreground = new SolidColorBrush(Colors.Blue);
             //textBox1.Text = getMessage;//setting message
             var BAGGA = new ParseObject("ChatMessage");
-            BAGGA["Bagga"] = "Bagga";
-            BAGGA["Color"] = "blue";
-            BAGGA["Message"] =getMessage;
+            BAGGA["color"] = "#3A01DF";
+            BAGGA["message"] = getMessage;
+            BAGGA["user"] = "Bagga";
             await BAGGA.SaveAsync();
         
         }
@@ -95,8 +95,8 @@ namespace ParseStarterProject
                  IEnumerable<ParseObject> results = t.Result;
                  foreach (var obj in results)
                  {
-                     getData[count] = obj.Get<string>("Message");
-                     Debug.WriteLine(getData[count]);     
+                     getData[count] = obj.Get<string>("message");
+                    // Debug.WriteLine(getData[count]);     
                      count = count + 1;
                   }   
              });
